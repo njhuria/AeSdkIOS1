@@ -1,0 +1,269 @@
+TAeSdkIOS
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.o /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.o /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.o /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/libAeSdkIOS.a normal armv7
+cLibtool /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/libAeSdkIOS.a normal armv7s
+cLibtool /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/libAeSdkIOS.a normal arm64
+cCreateUniversalBinary /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/libAeSdkIOS.a normal armv7\ armv7s\ arm64
+cPBXCp AeSdkIOS/AeSdkIOS.h /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include/AeSdkIOS/AeSdkIOS.h
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053AD1CF0000000000000036B
+t1403854064
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053AD1CF1000000000000019E
+t1403854065
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053AD1CF50000000000A90C10
+t1403854069
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053AD1D420000000000000ADC
+t1403854146
+s2780
+
+N/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch
+c0000000053C6178300000000000000B6
+t1405491075
+s182
+
+N/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.h
+c0000000053C617D80000000000000161
+t1405491160
+s353
+
+N/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m
+c0000000053C617EE0000000000000889
+t1405491182
+s2185
+
+N/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.LinkFileList
+c0000000053C618F3000000000000006D
+t1405491443
+s109
+
+N/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.o
+t1405491443
+s20676
+
+N/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/libAeSdkIOS.a
+t1405491443
+s20976
+
+N/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.LinkFileList
+c0000000053C618F3000000000000006D
+t1405491443
+s109
+
+N/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.o
+t1405491443
+s18064
+
+N/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/libAeSdkIOS.a
+t1405491443
+s18360
+
+N/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.LinkFileList
+c0000000053C618F3000000000000006E
+t1405491443
+s110
+
+N/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.o
+t1405491443
+s18064
+
+N/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/libAeSdkIOS.a
+t1405491443
+s18360
+
+N/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include/AeSdkIOS/AeSdkIOS.h
+t1405491443
+s353
+
+N/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/libAeSdkIOS.a
+t1405491443
+s57764
+
+N/var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch.pch
+t1405491443
+s91320
+
+N/var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch.pch
+t1405491443
+s113932
+
+N/var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch.pch
+t1405491443
+s91320
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies910e571eda77b941^272e831eda77b941^---0#1#1#--18"Check dependencies36"397EEB40-1BCF-4CF1-950A-F75DBD1A7E7A-
+
+CCompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.o /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427184243.286607
+e427184243.606616
+r1
+xCompileC
+xbuild/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.o
+x/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m
+d/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m180"CompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.o AeSdkIOS/AeSdkIOS.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler45b849735076b941^944f9b735076b941^---0#0#1#-19%DVTDocumentLocation2@52"file:///Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m0000000000000000^3098"CompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.o AeSdkIOS/AeSdkIOS.m normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adelement/AeSdkIOS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-generated-files.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-own-target-headers.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-all-target-headers.hmap -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-project-headers.hmap -I/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources/arm64 -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources -F/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos -include /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch -MMD -MT dependencies -MF /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.d --serialize-diagnostics /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.dia -c /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m -o /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.o36"39BF429B-2443-4774-904D-4DD7E7A50461-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CCompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.o /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427184243.285849
+e427184243.607803
+r1
+xCompileC
+xbuild/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.o
+x/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m
+d/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m180"CompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.o AeSdkIOS/AeSdkIOS.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler8d7d49735076b941^55a39b735076b941^---0#0#1#-19%DVTDocumentLocation2@52"file:///Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m0000000000000000^3098"CompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.o AeSdkIOS/AeSdkIOS.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adelement/AeSdkIOS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-generated-files.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-own-target-headers.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-all-target-headers.hmap -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-project-headers.hmap -I/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources/armv7 -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources -F/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos -include /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch -MMD -MT dependencies -MF /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.d --serialize-diagnostics /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.dia -c /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m -o /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.o36"C6DD1BCE-40DF-46C8-8E97-ECC9A0CFF357-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CCompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.o /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427184243.286203
+e427184243.607796
+r1
+xCompileC
+xbuild/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.o
+x/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m
+d/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m182"CompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.o AeSdkIOS/AeSdkIOS.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerc68b49735076b941^a6989b735076b941^---0#0#1#-19%DVTDocumentLocation2@52"file:///Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m0000000000000000^3105"CompileC build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.o AeSdkIOS/AeSdkIOS.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adelement/AeSdkIOS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-generated-files.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-own-target-headers.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-all-target-headers.hmap -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-project-headers.hmap -I/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources/armv7s -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources -F/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos -include /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch -MMD -MT dependencies -MF /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.d --serialize-diagnostics /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.dia -c /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.m -o /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.o36"8496FCC0-A255-40CF-8E74-93E1F1201E28-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CCreateUniversalBinary /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/libAeSdkIOS.a normal armv7\ armv7s\ arm64
+s427184243.622804
+e427184243.631657
+r1
+xCreateUniversalBinary
+x/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/libAeSdkIOS.a
+xnormal
+xarmv7 armv7s arm64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Create universal binary /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/libAeSdkIOS.a184"CreateUniversalBinary /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/libAeSdkIOS.a normal armv7\ armv7s\ arm64fca79f735076b941^63b5a1735076b941^---0#0#1#-19%DVTDocumentLocation2@141"file:///Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/libAeSdkIOS.a00348867dfffdf42^800"CreateUniversalBinary /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/libAeSdkIOS.a normal armv7\ armv7s\ arm64    cd /Users/adelement/AeSdkIOS    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/libAeSdkIOS.a /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/libAeSdkIOS.a /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/libAeSdkIOS.a -o /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/libAeSdkIOS.a36"68B1E232-3AC5-4AF5-975E-94A8E8D141AE-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CLibtool /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/libAeSdkIOS.a normal arm64
+s427184243.609466
+e427184243.621436
+r1
+xLibtool
+x/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/libAeSdkIOS.a
+xnormal
+xarm64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Libtool build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/libAeSdkIOS.a normal arm64106"Libtool build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/libAeSdkIOS.a normal arm647b4c9c735076b941^4a269f735076b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--816"Libtool build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/libAeSdkIOS.a normal arm64    cd /Users/adelement/AeSdkIOS    export IPHONEOS_DEPLOYMENT_TARGET=7.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only arm64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos -filelist /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/AeSdkIOS.LinkFileList -ObjC -framework Foundation -o /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/arm64/libAeSdkIOS.a36"952227B5-BA09-45D1-BDF6-46D51D45EBD5-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CLibtool /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/libAeSdkIOS.a normal armv7
+s427184243.608816
+e427184243.621462
+r1
+xLibtool
+x/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/libAeSdkIOS.a
+xnormal
+xarmv7
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Libtool build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/libAeSdkIOS.a normal armv7106"Libtool build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/libAeSdkIOS.a normal armv753239c735076b941^90319f735076b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--816"Libtool build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/libAeSdkIOS.a normal armv7    cd /Users/adelement/AeSdkIOS    export IPHONEOS_DEPLOYMENT_TARGET=7.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos -filelist /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/AeSdkIOS.LinkFileList -ObjC -framework Foundation -o /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7/libAeSdkIOS.a36"467296AB-7B02-45CD-81F0-FF7955AF52F7-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CLibtool /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/libAeSdkIOS.a normal armv7s
+s427184243.609167
+e427184243.621451
+r1
+xLibtool
+x/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/libAeSdkIOS.a
+xnormal
+xarmv7s
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Libtool build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/libAeSdkIOS.a normal armv7s108"Libtool build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/libAeSdkIOS.a normal armv7s54369c735076b941^a52c9f735076b941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--821"Libtool build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/libAeSdkIOS.a normal armv7s    cd /Users/adelement/AeSdkIOS    export IPHONEOS_DEPLOYMENT_TARGET=7.1    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos -filelist /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/AeSdkIOS.LinkFileList -ObjC -framework Foundation -o /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/Objects-normal/armv7s/libAeSdkIOS.a36"63EE679C-0F74-4F00-B9AD-734AB0D16111-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CPBXCp AeSdkIOS/AeSdkIOS.h /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include/AeSdkIOS/AeSdkIOS.h
+s427184243.632189
+e427184243.633948
+r1
+xPBXCp
+xAeSdkIOS/AeSdkIOS.h
+x/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include/AeSdkIOS/AeSdkIOS.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection153"Copy /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include/AeSdkIOS/AeSdkIOS.h174"PBXCp AeSdkIOS/AeSdkIOS.h /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include/AeSdkIOS/AeSdkIOS.hfd11a2735076b941^024ba2735076b941^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include/AeSdkIOS/AeSdkIOS.h00348867dfffdf42^504"PBXCp AeSdkIOS/AeSdkIOS.h /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include/AeSdkIOS/AeSdkIOS.h    cd /Users/adelement/AeSdkIOS    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS.h /Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include/AeSdkIOS36"5057FF1C-2781-42E4-9272-A3CE45F57F28-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427184243.080527
+e427184243.284380
+r1
+xProcessPCH
+x/var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch.pch
+xAeSdkIOS/AeSdkIOS-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile AeSdkIOS/AeSdkIOS-Prefix.pch315"ProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilere0f614735076b941^45d848735076b941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch0000000000000000^3327"ProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adelement/AeSdkIOS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-generated-files.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-own-target-headers.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-all-target-headers.hmap -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-project-headers.hmap -I/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources/armv7s -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources -F/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch.d -c /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch -o /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-dnavvnttdbrusjcvbfvgrcljvyrq/AeSdkIOS-Prefix.pch.pch36"B7720F46-1133-49FE-9E8D-6D0AC068723F-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427184243.080870
+e427184243.284392
+r1
+xProcessPCH
+x/var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch.pch
+xAeSdkIOS/AeSdkIOS-Prefix.pch
+xnormal
+xarm64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile AeSdkIOS/AeSdkIOS-Prefix.pch314"ProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1b1015735076b941^0fd548735076b941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch0000000000000000^3324"ProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal arm64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adelement/AeSdkIOS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-generated-files.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-own-target-headers.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-all-target-headers.hmap -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-project-headers.hmap -I/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources/arm64 -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources -F/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch.d -c /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch -o /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-esognqggctdlfffnwhbujslgegdw/AeSdkIOS-Prefix.pch.pch36"6D245415-9158-4125-AF03-F2A1E58E8397-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
+CProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427184243.079916
+e427184243.284378
+r1
+xProcessPCH
+x/var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch.pch
+xAeSdkIOS/AeSdkIOS-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile AeSdkIOS/AeSdkIOS-Prefix.pch314"ProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler49f614735076b941^96cd48735076b941^---0#0#1#-19%DVTDocumentLocation2@61"file:///Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch0000000000000000^3324"ProcessPCH /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch.pch AeSdkIOS/AeSdkIOS-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adelement/AeSdkIOS    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.1 -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-generated-files.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-own-target-headers.hmap -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-all-target-headers.hmap -iquote /Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/AeSdkIOS-project-headers.hmap -I/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources/armv7 -I/Users/adelement/AeSdkIOS/build/AeSdkIOS.build/Debug-iphoneos/AeSdkIOS.build/DerivedSources -F/Users/adelement/Library/Developer/Xcode/DerivedData/AeSdkIOS-gaueikrauriywkagmkyegssdgkls/Build/Products/Debug-iphoneos --serialize-diagnostics /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch.d -c /Users/adelement/AeSdkIOS/AeSdkIOS/AeSdkIOS-Prefix.pch -o /var/folders/48/k2cykxz96p3crf6yd6h9cvlw0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/AeSdkIOS-Prefix-gvdahfnwarkqwraklokuauvamcpv/AeSdkIOS-Prefix.pch.pch36"603DE740-675E-4044-9868-3EBDA5ABFCC1-
+b4F1021B4-500F-42CC-B6A4-5264405F4725
+
